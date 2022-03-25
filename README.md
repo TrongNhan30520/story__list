@@ -4,3 +4,7 @@ This is a Full Stack MERN Application with React, Node.js, Express & MongoDB. Th
 events that happened in their lives.
 Setup:
   - run `npm i && npm start` for both client and server side to start the app
+
+Live Demo: https://youtu.be/l5h2m-IPbG0
+
+Link app: https://nemo-notes.netlify.app/
