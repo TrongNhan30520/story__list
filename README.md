@@ -5,6 +5,7 @@ events that happened in their lives.
 Deploy: 
 - Backend: heroku
 - Frontend: netlify
+
 Setup:
   - run `npm i && npm start` for both client and server side to start the app
 
